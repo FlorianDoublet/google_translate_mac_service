@@ -7,4 +7,4 @@ Double cliquez sur google_translate_service, puis cliquez sur installer.
 
 Vous pouvez maintenant surligner un mot ou une expression, faire clique-droit -> Services -> Google translate service
 
-Si vous souaitez mettre un raccourci pour utiliser le service: Préférences Système -> Clavier -> Raccourcis -> Services -> Google translate service.
+Si vous souhaitez mettre un raccourci pour utiliser le service: Préférences Système -> Clavier -> Raccourcis -> Services -> Google translate service.
